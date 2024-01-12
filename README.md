@@ -1,4 +1,4 @@
-# NLP Text Classification: Ham Spam Detection
+# Text Classification: Ham Spam Detection
 
 ## Overview
 
